@@ -1,4 +1,4 @@
-package com.hypech.case8core_sharedpreferences;
+package com.hypech.case9core_sharedpreferences;
 
 import androidx.appcompat.app.AppCompatActivity;
 
